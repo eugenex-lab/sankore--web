@@ -1,0 +1,375 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 1269px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: KonnectRegular;
+  background-image: none;
+  margin: 73px 1px 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-style: italic;
+  font-size: 2.8125rem;
+  font-family: "Playfair Display", serif;
+  margin: 0 1px;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 35px 333px 0 1px;
+}
+
+.u-section-1 .u-list-1 {
+  margin: 80px 0 60px;
+}
+
+.u-section-1 .u-repeater-1 {
+  grid-gap: 27px 27px;
+  grid-template-columns: calc(50% - 13.5px) calc(50% - 13.5px);
+  min-height: 375px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 10px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 539px;
+  background-image: none;
+  box-shadow: 0px 3px 12px 0px rgba(128,128,128,0.25);
+  min-height: 397px;
+  height: auto;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 0;
+}
+
+.u-section-1 .u-image-1 {
+  height: 146px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-text-4 {
+  font-family: KonnectMedium;
+  font-size: 1.125rem;
+  margin: 16px 18px 0;
+}
+
+.u-section-1 .u-text-5 {
+  font-family: KonnectMedium;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  margin: 0 17px 0 18px;
+}
+
+.u-section-1 .u-text-6 {
+  font-size: 0.875rem;
+  letter-spacing: 0px;
+  margin: 9px 18px 0;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 10px;
+}
+
+.u-section-1 .u-group-2 {
+  width: 539px;
+  background-image: none;
+  box-shadow: 0px 3px 12px 0px rgba(128,128,128,0.25);
+  min-height: 397px;
+  height: auto;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 0;
+}
+
+.u-section-1 .u-image-2 {
+  height: 146px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-text-7 {
+  font-family: KonnectMedium;
+  font-size: 1.125rem;
+  margin: 16px 18px 0;
+}
+
+.u-section-1 .u-text-8 {
+  font-family: KonnectMedium;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  margin: 0 17px 0 18px;
+}
+
+.u-section-1 .u-text-9 {
+  font-size: 0.875rem;
+  letter-spacing: 0px;
+  margin: 9px 18px 0;
+}
+
+.u-section-1 .u-container-layout-5 {
+  padding: 10px;
+}
+
+.u-section-1 .u-group-3 {
+  width: 539px;
+  background-image: none;
+  box-shadow: 0px 3px 12px 0px rgba(128,128,128,0.25);
+  min-height: 397px;
+  height: auto;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-container-layout-6 {
+  padding: 0;
+}
+
+.u-section-1 .u-image-3 {
+  height: 146px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-text-10 {
+  font-family: KonnectMedium;
+  font-size: 1.125rem;
+  margin: 16px 18px 0;
+}
+
+.u-section-1 .u-text-11 {
+  font-family: KonnectMedium;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  margin: 0 17px 0 18px;
+}
+
+.u-section-1 .u-text-12 {
+  font-size: 0.875rem;
+  letter-spacing: 0px;
+  margin: 9px 18px 0;
+}
+
+.u-section-1 .u-container-layout-7 {
+  padding: 10px;
+}
+
+.u-section-1 .u-group-4 {
+  width: 539px;
+  background-image: none;
+  box-shadow: 0px 3px 12px 0px rgba(128,128,128,0.25);
+  min-height: 397px;
+  height: auto;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-container-layout-8 {
+  padding: 0;
+}
+
+.u-section-1 .u-image-4 {
+  height: 146px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-text-13 {
+  font-family: KonnectMedium;
+  font-size: 1.125rem;
+  margin: 16px 18px 0;
+}
+
+.u-section-1 .u-text-14 {
+  font-family: KonnectMedium;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  margin: 0 17px 0 18px;
+}
+
+.u-section-1 .u-text-15 {
+  font-size: 0.875rem;
+  letter-spacing: 0px;
+  margin: 9px 18px 0;
+}
+
+@media (max-width: 1399px) {
+  .u-section-1 .u-list-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-group-1 {
+    height: auto;
+  }
+
+  .u-section-1 .u-group-2 {
+    height: auto;
+  }
+
+  .u-section-1 .u-group-3 {
+    height: auto;
+  }
+
+  .u-section-1 .u-group-4 {
+    height: auto;
+  }
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 134px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    min-height: 312px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 446px;
+    width: 100%;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-right: 17px;
+  }
+
+  .u-section-1 .u-group-2 {
+    min-height: 446px;
+    width: 100%;
+  }
+
+  .u-section-1 .u-text-9 {
+    margin-right: 17px;
+  }
+
+  .u-section-1 .u-group-3 {
+    min-height: 446px;
+    width: 100%;
+  }
+
+  .u-section-1 .u-text-12 {
+    margin-right: 17px;
+  }
+
+  .u-section-1 .u-group-4 {
+    min-height: 446px;
+    width: 100%;
+  }
+
+  .u-section-1 .u-text-15 {
+    margin-right: 17px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-3 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: 100%;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 348px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding: 0;
+  }
+
+  .u-section-1 .u-group-2 {
+    min-height: 348px;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding: 0;
+  }
+
+  .u-section-1 .u-group-3 {
+    min-height: 348px;
+  }
+
+  .u-section-1 .u-container-layout-6 {
+    padding: 0;
+  }
+
+  .u-section-1 .u-group-4 {
+    min-height: 348px;
+  }
+
+  .u-section-1 .u-container-layout-8 {
+    padding: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-group-1 {
+    min-height: 399px;
+  }
+
+  .u-section-1 .u-group-2 {
+    min-height: 399px;
+  }
+
+  .u-section-1 .u-group-3 {
+    min-height: 399px;
+  }
+
+  .u-section-1 .u-group-4 {
+    min-height: 399px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-2 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 512px;
+  }
+
+  .u-section-1 .u-group-2 {
+    min-height: 512px;
+  }
+
+  .u-section-1 .u-group-3 {
+    min-height: 512px;
+  }
+
+  .u-section-1 .u-group-4 {
+    min-height: 512px;
+  }
+}@font-face {
+  font-family: 'KonnectRegular';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/KonnectRegular.otf);
+}@font-face {
+  font-family: 'KonnectMedium';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/KonnectMedium.otf);
+}@font-face {
+  font-family: 'KonnectLight';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/KonnectLight.otf);
+}
