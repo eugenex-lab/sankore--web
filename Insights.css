@@ -545,6 +545,7 @@
   height: 146px;
   margin-top: 0;
   margin-bottom: 0;
+  object-fit: fill;
 }
 
 .u-section-1 .u-btn-16 {
